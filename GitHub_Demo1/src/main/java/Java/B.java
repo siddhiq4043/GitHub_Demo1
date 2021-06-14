@@ -6,7 +6,7 @@ public class B {
 	{
 		// TODO Auto-generated method stub
 		
-		System.out.println("Added class B in GitHub_Demo1");
+		System.out.println("Added class B in GitHub_Demo1 hieneien");
 
 	}
 
